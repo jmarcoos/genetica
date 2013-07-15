@@ -1,0 +1,6 @@
+<ul id="redepaginas">
+                    <!--
+                    <li><script src="http://connect.facebook.net/pt_BR/all.js#xfbml=1"></script><fb:like layout="button_count" show_faces="false" href=""></fb:like></li>
+                    <li id="twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="http://blog.nossocinema.com.br/o-espetacular-homem-aranha/" rel="nofollow">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
+                    -->
+                </ul>
